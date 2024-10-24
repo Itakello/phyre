@@ -1,0 +1,14 @@
+{
+  "task_id": "00001:052",
+  "actions": [
+    {
+      "position": [
+        110.0,
+        29.0
+      ],
+      "color": null,
+      "shape": "ball",
+      "diameter": 12.0
+    }
+  ]
+}
